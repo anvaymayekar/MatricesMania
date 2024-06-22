@@ -1,2 +1,2 @@
 # MatricesMania
-Computing complex matrices functions by employing an object oriented approach
+Computing complex matrix functions by employing an object-oriented approach in python
